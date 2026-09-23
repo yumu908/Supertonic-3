@@ -1,0 +1,6 @@
+{
+  "name": "Supertonic TTS",
+  "description": "Lightning fast, on-device accurate Text-to-Speech synthesizer with multi-language, custom natural voices, speed/pitch controls, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
